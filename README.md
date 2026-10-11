@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=200&section=header&text=therample&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Web%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="therample header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=200&section=header&text=rample&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Web%20Developer&descSize=17&descAlignY=60&animation=fadeIn" alt="therample header"/>
 <a href="https://github.com/therample">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Developer+%F0%9F%8C%90;Building+ideas+into+reality;Always+learning.+Always+building." alt="Typing animation"/>
 </a>
