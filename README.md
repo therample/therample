@@ -112,3 +112,64 @@ Have an interesting idea? Let’s build something cool.
 while True: learn(); build(); improve()
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:080B16&height=100&section=footer" alt="Footer"/>
 </div>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:102A43,100:00D9FF&height=190&section=header&text=therample&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20%2F%20WEB%20DEVELOPER&descSize=16&descAlignY=60" alt="therample"/>
+Building things for the web. Automating things with Python.
+</div>
+
+
+⸻
+
+
+01 / ABOUT ME
+class Therample:
+    name = "therample"
+    role = "Python & Web Developer"
+    interests = ["Python", "Web Development", "Automation"]
+    focus = "Building and learning"
+
+    def __str__(self):
+        return "Turning ideas into code."
+• Python development and automation
+• Modern websites and web technologies
+• Exploring new tools and building personal projects
+• Always learning something new
+02 / TECH STACK
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark&perline=7" alt="Tech stack"/>
+</div>
+03 / GITHUB TROPHIES
+<div align="center">
+<a href="https://github.com/therample">
+  <img src="https://github-profile-trophy.vercel.app/?username=therample&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub Profile Trophies"/>
+</a>
+</div>
+04 / GITHUB STATS
+<div align="center">
+<a href="https://github.com/therample">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=therample&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/therample">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therample&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Top Languages"/>
+</a>
+</div>
+05 / CONTRIBUTIONS
+<div align="center">
+<img width="100%" src="./github-metrics.svg" alt="GitHub Metrics"/>
+</div>
+06 / PROJECTS
+<div align="center">
+<a href="https://github.com/therample?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore projects"/>
+</a>
+More code. More experiments. Better projects.
+</div>
+
+
+⸻
+
+
+<div align="center">
+while learning: build_something_cool()
+github.com/therample
+</div>
